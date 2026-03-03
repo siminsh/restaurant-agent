@@ -2,5 +2,6 @@
 /agent
 /tui
 *.log
+*.pdf
 .DS_Store
 .claude/
