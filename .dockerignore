@@ -1,0 +1,6 @@
+.env
+agent
+tui
+.git
+.claude
+*.log

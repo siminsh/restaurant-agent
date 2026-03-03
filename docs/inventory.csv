@@ -1,0 +1,26 @@
+item_name,quantity,unit,reorder_threshold,category,supplier
+aardappelen,25,kg,15,produce,Groenteboer van Dam
+uien,8,kg,5,produce,Groenteboer van Dam
+boerenkool,4,kg,6,produce,Groenteboer van Dam
+tomaten,3,kg,5,produce,Groenteboer van Dam
+sla,2,kg,3,produce,Groenteboer van Dam
+pompoen,5,kg,4,produce,Groenteboer van Dam
+biefstuk,6,kg,8,meat,Slagerij de Wit
+ossenhaas,3,kg,4,meat,Slagerij de Wit
+kippenpoten,5,kg,6,meat,Slagerij de Wit
+lamsbout,4,kg,3,meat,Slagerij de Wit
+eendenborst,2,kg,3,meat,Slagerij de Wit
+zalm,5,kg,4,seafood,Vishandel Noordzee
+mosselen,8,kg,10,seafood,Vishandel Noordzee
+schol,3,kg,4,seafood,Vishandel Noordzee
+garnalen,2,kg,3,seafood,Vishandel Noordzee
+boter,4,kg,3,dairy,Zuivelhoeve
+room,5,liters,4,dairy,Zuivelhoeve
+kaas,3,kg,4,dairy,Zuivelhoeve
+eieren,60,stuks,30,dairy,Zuivelhoeve
+meel,12,kg,8,pantry,Groothandel Bakker
+rijst,10,kg,6,pantry,Groothandel Bakker
+pasta,8,kg,5,pantry,Groothandel Bakker
+olijfolie,6,liters,3,pantry,Mediterrane Import
+erwten,3,kg,5,pantry,Groothandel Bakker
+rookworst,4,kg,5,pantry,Slagerij de Wit

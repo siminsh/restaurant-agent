@@ -1,0 +1,6 @@
+.env
+/agent
+/tui
+*.log
+.DS_Store
+.claude/
