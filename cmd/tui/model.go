@@ -260,7 +260,7 @@ func (m model) View() string {
 // -- Render helpers --
 
 func (m model) renderHeader() string {
-	title := "  De Gouden Lepel - Operations Agent"
+	title := "  Restaurant Operations Agent"
 	help := "  /clear = reset  |  ctrl+c = quit"
 
 	left := headerStyle.Render(title)
@@ -332,7 +332,7 @@ func (m model) renderInput() string {
 }
 
 func (m model) renderWelcome() string {
-	welcome := `# De Gouden Lepel - Operations Agent
+	welcome := `# Restaurant Operations Agent
 
 Welcome! I'm your AI operations assistant. Try asking:
 

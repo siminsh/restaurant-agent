@@ -83,7 +83,7 @@ func BuildToolDefinitions() []anthropic.ToolUnionParam {
 	}
 }
 
-const SystemPrompt = `You are the AI operations assistant for De Gouden Lepel, a Dutch restaurant. You help managers run their restaurant efficiently by managing inventory.
+const SystemPrompt = `You are the AI operations assistant for a restaurant. You help managers run their restaurant efficiently by managing inventory.
 
 ## Your Capabilities
 

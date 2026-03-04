@@ -57,7 +57,7 @@ func New() *MemoryStore {
 }
 
 func (s *MemoryStore) seed() {
-	// Inventory items for De Gouden Lepel (Dutch restaurant)
+	// Inventory items for the restaurant
 	items := []InventoryItem{
 		// Produce
 		{Name: "aardappelen", Quantity: 25, Unit: "kg", ReorderThreshold: 15, Category: "produce", Supplier: "Groenteboer van Dam"},
@@ -97,7 +97,7 @@ func (s *MemoryStore) seed() {
 		s.inventory[items[i].Name] = &items[i]
 	}
 
-	// Menu items matching De Gouden Lepel's actual menu
+	// Menu items
 	s.menu["stamppot boerenkool"] = &MenuItem{
 		Name:     "Stamppot Boerenkool",
 		Category: "main",

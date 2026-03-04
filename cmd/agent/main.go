@@ -67,7 +67,7 @@ func main() {
 		}
 	}()
 
-	log.Printf("De Gouden Lepel operations agent running on http://localhost:%s", cfg.Port)
+	log.Printf("Restaurant operations agent running on http://localhost:%s", cfg.Port)
 	log.Println("endpoints:")
 	log.Println("  POST /api/v1/chat          - chat with the agent")
 	log.Println("  GET  /api/v1/inventory      - list all inventory items")
